@@ -1,0 +1,6 @@
+framework module Pods_WatchDogMainThread_Example {
+  umbrella header "Pods-WatchDogMainThread_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

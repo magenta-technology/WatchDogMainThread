@@ -1,0 +1,6 @@
+framework module WatchDogMainThread {
+  umbrella header "WatchDogMainThread-umbrella.h"
+
+  export *
+  module * { export * }
+}

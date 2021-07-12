@@ -1,0 +1,16 @@
+PODS:
+  - WatchDogMainThread (0.1.0)
+
+DEPENDENCIES:
+  - WatchDogMainThread (from `../`)
+
+EXTERNAL SOURCES:
+  WatchDogMainThread:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WatchDogMainThread: 2d988cc4352c14cc37f246a2952bdf88ca94eb8a
+
+PODFILE CHECKSUM: 8508416fd68324962e1877e5ed80d9aeaf0c7df7
+
+COCOAPODS: 1.9.1

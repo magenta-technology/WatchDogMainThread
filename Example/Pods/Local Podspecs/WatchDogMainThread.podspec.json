@@ -1,0 +1,26 @@
+{
+  "name": "WatchDogMainThread",
+  "version": "0.1.0",
+  "summary": "WatchDogMainThread detects UI Freeze",
+  "description": "WatchDogMainThread detects UI Freeze.\nYou can set time interval when WatchDogMainThread considers UI Thread is blocked.\nAlso you can provide handler for freeze event from WatchDogMainThread.",
+  "homepage": "http://lab/mobile-development/WatchDogMainThread",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pavel Volhin": "pavel.volhin@magenta-technology.com"
+  },
+  "source": {
+    "git": "http://lab/mobile-development/WatchDogMainThread.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WatchDogMainThread/Classes/**/*.{m,h,swift}",
+  "swift_versions": [
+    "4.2"
+  ],
+  "swift_version": "4.2"
+}
